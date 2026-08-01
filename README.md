@@ -1,0 +1,2 @@
+# Generative-ai-experiments
+excercises
